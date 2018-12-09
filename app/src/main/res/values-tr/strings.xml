@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Periyodik Cetvel</string>
+    <string name="lanthanides">Lantanitler</string>
+    <string name="lanthanides_range">57–71</string>
+    <string name="actinides_range">89–103</string>
+    <string name="actinides">Aktinitler</string>
+</resources>

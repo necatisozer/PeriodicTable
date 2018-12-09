@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="element_box_size_width">100dp</dimen>
+    <dimen name="element_box_size_height">128dp</dimen>
+    <dimen name="element_box_corner_radius">4dp</dimen>
+    <dimen name="element_box_stroke">1dp</dimen>
+    <dimen name="element_box_padding">4dp</dimen>
+    <dimen name="atomic_number_margin">4dp</dimen>
+    <dimen name="symbol_margin_horizontal">16dp</dimen>
+    <dimen name="symbol_margin_top">24dp</dimen>
+    <dimen name="atomic_mass_margin">0dp</dimen>
+    <dimen name="element_name_margin_horizontal">2dp</dimen>
+    <dimen name="element_name_margin_top">4dp</dimen>
+</resources>
